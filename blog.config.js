@@ -46,7 +46,7 @@ const BLOG = {
   ...require('./conf/dev.config'), // 开发、调试时需要关注的配置
 
   // 自定义外部脚本，外部样式
-  CUSTOM_EXTERNAL_JS: ['https://resource-files.xiao-feishu.top/js/xn.js','https://ymh-resource-files.pages.dev/js/domainCheck.js'], // e.g. ['http://xx.com/script.js','http://xx.com/script.js']
+  CUSTOM_EXTERNAL_JS: ['https://resource-files.xiao-feishu.top/js/xn.js','https://ymh-resource-files.pages.dev/js/domainCheck.js','https://resource-files.xiao-feishu.top/js/all.js'], // e.g. ['http://xx.com/script.js','http://xx.com/script.js']
   CUSTOM_EXTERNAL_CSS: [''], // e.g. ['http://xx.com/style.css','http://xx.com/style.css']
 
   // 自定义菜单
